@@ -1,0 +1,21 @@
+
+AI Classification Evaluation
+
+Number of manually reviewed responses:
+10
+
+Agreement Scores:
+- Theme agreement: 90.0%
+- Sentiment agreement: 100.0%
+- Urgency agreement: 90.0%
+- Complete label agreement: 80.0%
+
+Responses with at least one disagreement:
+2
+
+Interpretation:
+These results compare Gemini-generated classifications
+with manually assigned labels.
+
+Any disagreements can be reviewed to identify unclear
+categories and improve the AI classification prompt.

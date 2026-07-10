@@ -1,6 +1,7 @@
-pandas
-numpy
-matplotlib
-streamlit
 google-genai
+matplotlib
+numpy
+pandas
+pydantic
 python-dotenv
+streamlit

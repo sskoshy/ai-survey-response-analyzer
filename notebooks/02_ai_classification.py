@@ -199,6 +199,30 @@ High:
 Strong anxiety, burnout, major distress,
 or feeling significantly overwhelmed.
 
+
+TIE-BREAKING RULES
+
+1. Choose the category based on the main cause or topic
+of the response, not only on emotional words.
+
+2. If deadlines, workload, prioritization, procrastination,
+or task planning are the main topic, choose Time Management,
+even when the response also mentions stress or burnout.
+
+3. Choose Exam Stress when exams, tests, grades, or exam
+pressure are the main topic.
+
+4. Use High urgency only when the response describes strong
+distress, burnout, severe anxiety, panic, or feeling
+significantly overwhelmed.
+
+5. Ordinary stress, concern, or difficulty without signs of
+severe distress should usually be Medium urgency.
+
+6. Use Low urgency for positive observations, preferences,
+and ordinary suggestions.
+
+
 Return one classification for every response.
 
 Survey responses:

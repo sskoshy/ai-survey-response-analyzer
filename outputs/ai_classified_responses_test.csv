@@ -1,0 +1,6 @@
+response_id,response_text,theme,sentiment,urgency,explanation
+1,I get overwhelmed when I have multiple exams in the same week.,Exam Stress,Negative,High,"The student feels overwhelmed by multiple exams, directly indicating significant exam-related stress and a high negative impact."
+2,"Studying with friends helps me, but it is hard to coordinate schedules.",Scheduling,Mixed,Medium,"The response expresses a positive aspect of studying with friends but highlights a negative challenge in coordinating schedules, making it a mixed sentiment and a medium urgency scheduling issue."
+3,I spend too much time rewriting notes and not enough time practicing problems.,Study Strategy,Negative,Medium,"The student expresses a negative sentiment regarding their current study strategy, specifically an imbalance in time allocation between note-taking and problem practice, which is a medium-urgency issue."
+4,"Office hours are helpful, but I wish they were offered later in the day.",Scheduling,Mixed,Low,"The student finds office hours helpful but expresses a wish for a schedule change, indicating a mixed sentiment and a low urgency suggestion."
+5,I procrastinate because I do not always know where to start.,Study Strategy,Negative,Medium,"The student describes procrastination stemming from a lack of clear task initiation or planning, indicating a gap in study strategy."

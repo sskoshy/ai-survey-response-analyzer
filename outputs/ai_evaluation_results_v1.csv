@@ -1,0 +1,11 @@
+response_id,response_text,manual_theme,manual_sentiment,manual_urgency,theme,sentiment,urgency,explanation,theme_match,sentiment_match,urgency_match,all_labels_match
+28,Study groups help me stay accountable and ask questions.,Motivation,Positive,Low,Motivation,Positive,Low,Study groups assist the student with accountability and provide an opportunity to ask questions.,True,True,True,True
+16,I feel burned out when I have back-to-back deadlines.,Time Management,Negative,High,Exam Stress,Negative,High,The student experiences burnout when facing consecutive deadlines.,False,True,True,False
+24,I wish classes gave more reminders about upcoming deadlines.,Course Resources,Neutral,Low,Course Resources,Neutral,Low,The student desires more frequent reminders regarding upcoming deadlines from classes.,True,True,True,True
+18,I feel more motivated when I study with other people.,Motivation,Positive,Low,Motivation,Positive,Low,The student finds studying with others to be a source of increased motivation.,True,True,True,True
+9,I get stressed when exams are worth a huge part of the grade.,Exam Stress,Negative,Medium,Exam Stress,Negative,High,The student experiences stress due to the high weight of exams on their overall grade.,True,True,False,False
+10,I wish there were more study guides before midterms.,Course Resources,Neutral,Low,Course Resources,Neutral,Low,The student desires more study guides to prepare for midterms.,True,True,True,True
+29,I need better strategies for remembering formulas and concepts.,Study Strategy,Neutral,Medium,Study Strategy,Neutral,Medium,The student requires improved strategies for memorizing formulas and concepts.,True,True,True,True
+25,Breaking assignments into smaller parts helps me manage my time.,Time Management,Positive,Low,Time Management,Positive,Low,Breaking down assignments into smaller parts aids the student in managing their time effectively.,True,True,True,True
+13,Group study sessions make me feel more confident before exams.,Motivation,Positive,Low,Motivation,Positive,Low,Group study sessions boost the student's confidence before exams.,True,True,True,True
+1,I get overwhelmed when I have multiple exams in the same week.,Exam Stress,Negative,High,Exam Stress,Negative,High,"The student feels overwhelmed due to multiple exams, indicating significant distress.",True,True,True,True

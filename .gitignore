@@ -2,18 +2,16 @@
 __pycache__/
 *.pyc
 
-# Virtual environment
+# Virtual environments
 .venv/
 venv/
 
-# Environment variables / API keys
+# API keys and secrets
 .env
+.streamlit/secrets.toml
 
 # Jupyter
 .ipynb_checkpoints/
 
 # Mac files
 .DS_Store
-
-# Outputs
-outputs/

@@ -1,0 +1,31 @@
+response_id,student_year,major_group,rating,response_text,theme,sentiment,urgency,explanation
+1,Freshman,STEM,3,I get overwhelmed when I have multiple exams in the same week.,Exam Stress,Negative,High,"The student feels overwhelmed due to multiple exams, indicating significant distress."
+2,Sophomore,Social Science,4,"Studying with friends helps me, but it is hard to coordinate schedules.",Scheduling,Mixed,Medium,The student benefits from studying with friends but faces difficulty coordinating schedules.
+3,Junior,STEM,2,I spend too much time rewriting notes and not enough time practicing problems.,Study Strategy,Negative,Medium,The student's current study strategy involves excessive note rewriting and insufficient practice.
+4,Senior,Humanities,5,"Office hours are helpful, but I wish they were offered later in the day.",Course Resources,Mixed,Low,"Office hours are helpful, but the student suggests a change in their timing."
+5,Junior,STEM,2,I procrastinate because I do not always know where to start.,Time Management,Negative,Medium,The student struggles with procrastination due to uncertainty about how to begin tasks.
+6,Freshman,Business,3,I feel like I have a lot of assignments but no clear plan for managing them.,Time Management,Negative,Medium,The student feels overwhelmed by assignments and lacks a clear plan for managing their workload.
+7,Sophomore,STEM,2,"Practice exams help the most, but some classes do not provide enough of them.",Course Resources,Mixed,Medium,"Practice exams are very helpful, but some classes lack sufficient provision of them."
+8,Junior,Social Science,4,I learn better when lectures include examples instead of only slides.,Study Strategy,Positive,Low,The student finds lectures more effective for learning when examples are included.
+9,Senior,STEM,3,I get stressed when exams are worth a huge part of the grade.,Exam Stress,Negative,High,The student experiences stress due to the high weight of exams on their overall grade.
+10,Freshman,Humanities,4,I wish there were more study guides before midterms.,Course Resources,Neutral,Low,The student desires more study guides to prepare for midterms.
+11,Sophomore,Business,3,I usually understand the topic in class but forget it when studying alone.,Study Strategy,Negative,Medium,The student has difficulty retaining information learned in class when studying independently.
+12,Junior,STEM,2,My biggest issue is time management because I wait too long to start studying.,Time Management,Negative,Medium,The student identifies procrastination and delayed start to studying as their main time management issue.
+13,Senior,Social Science,5,Group study sessions make me feel more confident before exams.,Motivation,Positive,Low,Group study sessions boost the student's confidence before exams.
+14,Freshman,STEM,3,"It is hard to balance homework, labs, and studying for exams.",Time Management,Negative,Medium,The student struggles with balancing various academic responsibilities.
+15,Sophomore,Humanities,4,I like when professors explain what topics are most important.,Course Resources,Positive,Low,The student appreciates it when professors highlight important topics.
+16,Junior,Business,2,I feel burned out when I have back-to-back deadlines.,Exam Stress,Negative,High,The student experiences burnout when facing consecutive deadlines.
+17,Senior,STEM,3,I need more practice problems with solutions to check my work.,Course Resources,Neutral,Medium,The student requires more practice problems accompanied by solutions for self-assessment.
+18,Freshman,Social Science,4,I feel more motivated when I study with other people.,Motivation,Positive,Low,The student finds studying with others to be a source of increased motivation.
+19,Sophomore,STEM,2,Sometimes I do not know if I am studying the right material.,Study Strategy,Negative,Medium,The student is unsure if their study efforts are directed at the correct material.
+20,Junior,Humanities,5,Clear rubrics and examples make assignments much easier to complete.,Course Resources,Positive,Low,Clear rubrics and examples provided for assignments significantly ease their completion.
+21,Senior,Business,3,I struggle with staying focused for long periods of time.,Motivation,Negative,Medium,The student has difficulty maintaining focus for extended periods.
+22,Freshman,STEM,2,I get anxious before exams even when I studied.,Exam Stress,Negative,High,"The student experiences anxiety before exams, regardless of their preparation."
+23,Sophomore,Social Science,4,"Review sessions are helpful, especially when they go over common mistakes.",Course Resources,Positive,Low,"Review sessions are beneficial, particularly when they address common errors."
+24,Junior,STEM,3,I wish classes gave more reminders about upcoming deadlines.,Course Resources,Neutral,Low,The student desires more frequent reminders regarding upcoming deadlines from classes.
+25,Senior,Humanities,4,Breaking assignments into smaller parts helps me manage my time.,Time Management,Positive,Low,Breaking down assignments into smaller parts aids the student in managing their time effectively.
+26,Freshman,Business,3,I have trouble figuring out which tasks to prioritize first.,Time Management,Negative,Medium,The student struggles with prioritizing tasks effectively.
+27,Sophomore,STEM,2,I feel behind when lectures move too fast.,Study Strategy,Negative,Medium,The student feels left behind when lectures proceed too quickly.
+28,Junior,Social Science,5,Study groups help me stay accountable and ask questions.,Motivation,Positive,Low,Study groups assist the student with accountability and provide an opportunity to ask questions.
+29,Senior,STEM,3,I need better strategies for remembering formulas and concepts.,Study Strategy,Neutral,Medium,The student requires improved strategies for memorizing formulas and concepts.
+30,Freshman,Humanities,4,I like when professors provide example answers or sample essays.,Course Resources,Positive,Low,The student appreciates professors providing example answers or sample essays.

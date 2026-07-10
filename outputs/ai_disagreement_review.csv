@@ -1,0 +1,3 @@
+response_id,response_text,manual_theme,theme,theme_match,manual_sentiment,sentiment,sentiment_match,manual_urgency,urgency,urgency_match,explanation
+16,I feel burned out when I have back-to-back deadlines.,Time Management,Exam Stress,False,Negative,Negative,True,High,High,True,The student experiences burnout when facing consecutive deadlines.
+9,I get stressed when exams are worth a huge part of the grade.,Exam Stress,Exam Stress,True,Negative,Negative,True,Medium,High,False,The student experiences stress due to the high weight of exams on their overall grade.

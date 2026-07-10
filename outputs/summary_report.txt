@@ -1,0 +1,39 @@
+
+AI Survey Response Analyzer: Summary Report
+
+Total responses analyzed: 30
+
+Key Findings:
+1. The most common theme was "Other", appearing in 21 responses.
+2. The most common sentiment was "Neutral", appearing in 21 responses.
+3. The most common urgency level was "Low", appearing in 22 responses.
+
+Theme Breakdown:
+theme
+Other               21
+Study Strategy       3
+Exam Stress          2
+Time Management      2
+Scheduling           1
+Course Resources     1
+
+Sentiment Breakdown:
+sentiment
+Neutral     21
+Negative     5
+Mixed        3
+Positive     1
+
+Urgency Breakdown:
+urgency
+Low       22
+Medium     7
+High       1
+
+Early Interpretation:
+The AI classification results suggest that students are mainly struggling with patterns related to other. These results can help identify where support resources, study planning, or course improvements may be most useful.
+
+Recommended Next Steps:
+- Review the most common theme and connect it to specific student needs.
+- Check a sample of AI labels manually to evaluate accuracy.
+- Use the final results to build a Streamlit dashboard.
